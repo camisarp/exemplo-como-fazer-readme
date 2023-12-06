@@ -12,7 +12,7 @@
 <!-- pode fazer dessa forma tbm <img src="https://user-images.githubusercontent.com/84551213/181835677-9110dff6-8fd8-400c-80f7-a160e0177a36.gif" /> vai ficar centralizado mais sem manipulação de tamanho -->
 
 
-- [🐈: Objetivo 🦮:](#cat2-objetivo-guide_dog)
+- [🐈 Objetivo 🦮](#cat2-objetivo-guide_dog)
 - [📁 Arquitetura do Projeto](#-arquitetura-do-projeto) 
 - [:woman_technologist: Tecnologias e Dependências Utilizadas](#woman_technologist-tecnologias-e-dependências-utilizadas) 
 - [:construction_worker_woman: Instalação](#construction_worker_woman-instalação) 
